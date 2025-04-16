@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\bin\Debug\net8.0-windows\TryCatch.exe
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\bin\Debug\net8.0-windows\TryCatch.deps.json
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\bin\Debug\net8.0-windows\TryCatch.runtimeconfig.json
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\bin\Debug\net8.0-windows\TryCatch.dll
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\bin\Debug\net8.0-windows\TryCatch.pdb
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.Form1.resources
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.dll
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\refint\TryCatch.dll
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.pdb
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\TryCatch.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\TryCatch\TryCatch\obj\Debug\net8.0-windows\ref\TryCatch.dll
